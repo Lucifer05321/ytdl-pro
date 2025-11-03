@@ -680,12 +680,13 @@ A:Check your local laws and YouTube Terms of Service
 
 <div align="center">
 
-☕ Support This Project
+## ☕ Support This Project
 
-If you find ytdl-pro helpful and want to support continued development:
+If you find **ytdl-pro** helpful and want to support its continued development:
 
-https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
-Your support helps maintain and improve this project!
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+
+Your support helps maintain and improve this project.  
 
 </div>
 
