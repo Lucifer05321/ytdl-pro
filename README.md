@@ -210,49 +210,60 @@ ytdl(videoUrl, { quality: audioFormat.itag })
   .pipe(fs.createWriteStream('audio.' + audioFormat.container));
 ```
 
-</details>
+<div align="left">
+
+# 🎯 Features
+
+<details>
+<summary><kbd>✅ What Works Perfectly</kbd></summary>
 
 ---
 
-🎯 Features
-<details>
-<summary><kbd>✅ What Works Perfectly</kbd></summary>
-<div align="left">
-Video Quality Support
+### 🖥️ Video Quality Support
 
-· ✅ 4K (2160p) - Ultra HD
-· ✅ 1440p (2K) - Quad HD
-· ✅ 1080p - Full HD
-· ✅ 720p - HD Ready
-· ✅ 480p - Standard Definition
-· ✅ 360p - Medium Quality
-· ✅ 240p - Low Quality
-· ✅ 144p - Minimum Quality
+- ✅ **4K (2160p)** — Ultra HD  
+- ✅ **1440p (2K)** — Quad HD  
+- ✅ **1080p** — Full HD  
+- ✅ **720p** — HD Ready  
+- ✅ **480p** — Standard Definition  
+- ✅ **360p** — Medium Quality  
+- ✅ **240p** — Low Quality  
+- ✅ **144p** — Minimum Quality  
 
-Audio Quality Support
+---
 
-· ✅ 160kbps - High Quality
-· ✅ 128kbps - Standard Quality
-· ✅ 70kbps - Medium Quality
-· ✅ 50kbps - Low Quality
+### 🎧 Audio Quality Support
 
-Format Types
+- ✅ **160kbps** — High Quality  
+- ✅ **128kbps** — Standard Quality  
+- ✅ **70kbps** — Medium Quality  
+- ✅ **50kbps** — Low Quality  
 
-· ✅ Video-only formats (for custom merging)
-· ✅ Audio-only formats (music extraction)
-· ✅ Combined formats (video + audio)
-· ✅ Adaptive formats (separate streams)
+---
 
-Advanced Features
+### 💾 Format Types
 
-· ✅ Multi-Client Fallback (ANDROID → IOS → WEB)
-· ✅ Signature Deciphering for protected videos
-· ✅ Progress Tracking with real-time events
-· ✅ Smart Caching to reduce API calls
-· ✅ Format Filtering and selection utilities
-· ✅ URL Validation and video ID extraction
+- ✅ **Video-only formats** (for custom merging)  
+- ✅ **Audio-only formats** (music extraction)  
+- ✅ **Combined formats** (video + audio)  
+- ✅ **Adaptive formats** (separate streams)  
+
+---
+
+### ⚙️ Advanced Features
+
+- ✅ **Multi-Client Fallback** (ANDROID → IOS → WEB)  
+- ✅ **Signature Deciphering** for protected videos  
+- ✅ **Progress Tracking** with real-time events  
+- ✅ **Smart Caching** to reduce API calls  
+- ✅ **Format Filtering & Selection Utilities**  
+- ✅ **URL Validation** and video ID extraction  
+
+---
 
 </details>
+
+</div>
 
 <details>
 <summary><kbd>🔥 Advanced Capabilities</kbd></summary>
