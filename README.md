@@ -108,8 +108,6 @@ ytdl-pro is a powerful, modern YouTube video downloader package built with the l
 
 The original ytdl-core package was abandoned 2-3 years ago and stopped working. I've completely rebuilt it with modern technology:
 
-<div align="left">
-    
 <details>
 <summary><kbd>🚀 Enhanced Features</kbd></summary>
     
