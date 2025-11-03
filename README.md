@@ -730,13 +730,15 @@ Disclaimer: This tool is developed for educational and personal use purposes onl
 
 ---
 
-◇ Powered by Lucifer
-
 <div align="center">
 
-⭐ If you find this project helpful, please give it a star on GitHub!
+## ⭐ If you find this project helpful, please give it a star on GitHub!
 
-https://api.star-history.com/svg?repos=Lucifer05321/ytdl-pro&type=Date
+
+[![★ Star this repo](https://img.shields.io/badge/★_Star_this_repo-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucifer05321/ytdl-pro/stargazers)
+
+
+</div>
 
 ## ☆ Repository Star Growth
 
