@@ -163,7 +163,6 @@ console.log('✅ ytdl-pro installed successfully!');
 
 🚀 QUICK START
 
-<details>
 <summary><kbd>🎯 Basic Usage Examples</kbd></summary>
 
 Download Video Information
