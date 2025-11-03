@@ -210,7 +210,7 @@ ytdl(videoUrl, { quality: audioFormat.itag })
   .pipe(fs.createWriteStream('audio.' + audioFormat.container));
 ```
 
-<details>
+---
 
 <div align="left">
 
