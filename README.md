@@ -80,18 +80,25 @@ Professional YouTube Video Downloader - The Ultimate Solution!
 </div>
 
 ---
+## 📊 Why Choose ytdl-pro? 🆚
 
-📊 Why Choose ytdl-pro? 🆚
+<div align="center">
 
-Feature ytdl-core (Abandoned) ytdl-pro (Modern)
-Last Update 2-3 Years Ago Active Development
-YouTube API Old API Modern InnerTube API
-4K Support ❌ Broken ✅ Working
-Multi-Client ❌ Single ✅ ANDROID, IOS, WEB
-Signature ❌ Often Fails ✅ Auto Decipher
-Performance 🐌 Slow ⚡ Fast
+| Feature | ytdl-core (Abandoned) | ytdl-pro (Modern) |
+|:--|:--:|:--:|
+| **Last Update** | ❌ 2–3 Years Ago | ✅ Active Development |
+| **YouTube API** | ❌ Old API | ✅ Modern InnerTube API |
+| **4K Support** | ❌ Broken | ✅ Fully Working |
+| **Multi-Client** | ❌ Single | ✅ ANDROID • IOS • WEB |
+| **Signature** | ❌ Often Fails | ✅ Auto-Decipher Engine |
+| **Performance** | 🐌 Slow | ⚡ Optimized & Fast |
+| **Maintenance** | ❌ Deprecated | ✅ Actively Maintained |
+| **Error Recovery** | ❌ Manual Retry | ✅ Smart Auto-Retry Logic |
+
+</div>
 
 ---
+
 
 🌟 About
 
@@ -118,7 +125,7 @@ The original ytdl-core package was abandoned 2-3 years ago and stopped working. 
 
 ---
 
-📦 Installation
+📥 INSTALLATION
 
 <details>
 <summary><kbd>📥 Installation Methods</kbd></summary>
@@ -154,7 +161,7 @@ console.log('✅ ytdl-pro installed successfully!');
 
 ---
 
-🚀 Quick Start
+🚀 QUICK START
 
 <details>
 <summary><kbd>🎯 Basic Usage Examples</kbd></summary>
@@ -300,7 +307,7 @@ stream.on('progress', (chunkLength, downloaded, total) => {
 
 ---
 
-📚 API Reference
+📚 API REFERENCE
 
 <details>
 <summary><kbd>🔧 Core Methods</kbd></summary>
@@ -363,7 +370,7 @@ Returns: String (video ID)
 
 ---
 
-💡 Example Usage
+💡 EXAMPLES
 
 <details>
 <summary><kbd>🎬 Complete Usage Examples</kbd></summary>
@@ -625,7 +632,7 @@ stream.on('end', () => {
 
 ---
 
-🆘 Support
+🆘 SUPPORT
 
 <details>
 <summary><kbd>📞 Get Help & Support</kbd></summary>
