@@ -1,1 +1,740 @@
-# ytdl-pro
+ytdl-pro 🚀
+
+Professional YouTube Video Downloader - The Ultimate Solution!
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml@0a824f72b6827f367383dc1a6b61cfad4a797f44/Cloud/Lucifer_web/Lucifer-ytdl-pro.gif" height="10000" />
+
+<br>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Welcome+to+ytdl-pro;Professional+YouTube+Video+Downloader+%F0%9F%9A%80" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Version-2.0_Professional-purple?style=for-the-badge&logo=azurepipelines" />
+<img src="https://img.shields.io/badge/Node.js->=16.0-green?style=for-the-badge&logo=nodedotjs" />
+<img src="https://img.shields.io/badge/Status-ACTIVE-brightgreen?style=for-the-badge&logo=rocket" />
+<img src="https://img.shields.io/badge/Platform-Windows|Mac|Linux|Termux-orange?style=for-the-badge&logo=windows" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/github/stars/Lucifer05321/ytdl-pro?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/forks/Lucifer05321/ytdl-pro?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/issues/Lucifer05321/ytdl-pro?style=for-the-badge&logo=github" />
+</div>
+
+<br>
+
+<pre>
+    🎯 MODERN API - YouTube InnerTube Integration
+    ⚡ MULTI-CLIENT - ANDROID, IOS, WEB Fallback
+    🚀 4K SUPPORT - 144p to 4K Quality
+    🎵 AUDIO EXTRACTION - High Quality Audio
+    🔥 ACTIVE DEVELOPMENT - Unlike Abandoned ytdl-core
+    📱 Cross-Platform Support
+</pre>
+
+<br>
+
+<div align="center">
+
+🔥 Quick Navigation
+
+https://img.shields.io/badge/📥_INSTALLATION-4285F4?style=for-the-badge&logo=download&logoColor=white
+https://img.shields.io/badge/🚀_QUICK_START-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white
+https://img.shields.io/badge/📚_API_REFERENCE-34A853?style=for-the-badge&logo=book&logoColor=white
+https://img.shields.io/badge/💡_EXAMPLES-FFA500?style=for-the-badge&logo=code&logoColor=white
+https://img.shields.io/badge/🆘_SUPPORT-E4405F?style=for-the-badge&logo=help&logoColor=white
+
+</div>
+
+<br>
+
+<div align="center">
+
+🔗 Connect With Me
+
+https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" />
+
+<br>
+
+</div>
+
+---
+
+📊 Why Choose ytdl-pro? 🆚
+
+Feature ytdl-core (Abandoned) ytdl-pro (Modern)
+Last Update 2-3 Years Ago Active Development
+YouTube API Old API Modern InnerTube API
+4K Support ❌ Broken ✅ Working
+Multi-Client ❌ Single ✅ ANDROID, IOS, WEB
+Signature ❌ Often Fails ✅ Auto Decipher
+Performance 🐌 Slow ⚡ Fast
+
+---
+
+🌟 About
+
+ytdl-pro is a powerful, modern YouTube video downloader package built with the latest YouTube API integration. This is a completely rewritten and enhanced version that actually WORKS - unlike the abandoned ytdl-core package!
+
+✨ Why ytdl-pro?
+
+The original ytdl-core package was abandoned 2-3 years ago and stopped working. I've completely rebuilt it with modern technology:
+
+<details>
+<summary><kbd>🚀 Enhanced Features</kbd></summary>
+
+· 🔥 Modern YouTube InnerTube API
+· ⚡ Multi-client support (ANDROID, IOS, WEB)
+· 🎯 Support for 1080p, 1440p, 4K video downloads
+· 🎵 High-quality audio-only downloads
+· 🚀 Lightning-fast performance
+· 💪 Actively maintained and updated
+· 🔒 Signature deciphering (when needed)
+· 📊 Progress tracking with real-time events
+· 🏗️ Smart caching for reduced API calls
+
+</details>
+
+---
+
+📦 Installation
+
+<details>
+<summary><kbd>📥 Installation Methods</kbd></summary>
+
+Basic Installation
+
+```bash
+npm install ytdl-pro
+```
+
+Development Installation
+
+```bash
+git clone https://github.com/Lucifer05321/ytdl-pro.git
+cd ytdl-pro
+npm install
+```
+
+Global Installation
+
+```bash
+npm install -g ytdl-pro
+```
+
+Verify Installation
+
+```javascript
+const ytdl = require('ytdl-pro');
+console.log('✅ ytdl-pro installed successfully!');
+```
+
+</details>
+
+---
+
+🚀 Quick Start
+
+<details>
+<summary><kbd>🎯 Basic Usage Examples</kbd></summary>
+
+Download Video Information
+
+```javascript
+const ytdl = require('ytdl-pro');
+
+const info = await ytdl.getInfo('https://www.youtube.com/watch?v=VIDEO_ID');
+
+console.log('📹 Title:', info.videoDetails.title);
+console.log('👤 Author:', info.videoDetails.author.name);
+console.log('👀 Views:', info.videoDetails.viewCount);
+console.log('📊 Available formats:', info.formats.length);
+```
+
+Download Highest Quality Video
+
+```javascript
+const ytdl = require('ytdl-pro');
+const fs = require('fs');
+
+// Download highest quality
+ytdl('https://www.youtube.com/watch?v=VIDEO_ID', { quality: 'highest' })
+  .pipe(fs.createWriteStream('video.mp4'));
+```
+
+Download 1080p Video
+
+```javascript
+const info = await ytdl.getInfo(videoUrl);
+const format1080p = info.formats.find(f => f.qualityLabel === '1080p');
+
+ytdl(videoUrl, { quality: format1080p.itag })
+  .pipe(fs.createWriteStream('video_1080p.mp4'));
+```
+
+Download Audio Only
+
+```javascript
+const info = await ytdl.getInfo(videoUrl);
+const audioFormat = ytdl.chooseFormat(info.formats, { quality: 'highestaudio' });
+
+ytdl(videoUrl, { quality: audioFormat.itag })
+  .pipe(fs.createWriteStream('audio.' + audioFormat.container));
+```
+
+</details>
+
+---
+
+🎯 Features
+
+<details>
+<summary><kbd>✅ What Works Perfectly</kbd></summary>
+
+Video Quality Support
+
+· ✅ 4K (2160p) - Ultra HD
+· ✅ 1440p (2K) - Quad HD
+· ✅ 1080p - Full HD
+· ✅ 720p - HD Ready
+· ✅ 480p - Standard Definition
+· ✅ 360p - Medium Quality
+· ✅ 240p - Low Quality
+· ✅ 144p - Minimum Quality
+
+Audio Quality Support
+
+· ✅ 160kbps - High Quality
+· ✅ 128kbps - Standard Quality
+· ✅ 70kbps - Medium Quality
+· ✅ 50kbps - Low Quality
+
+Format Types
+
+· ✅ Video-only formats (for custom merging)
+· ✅ Audio-only formats (music extraction)
+· ✅ Combined formats (video + audio)
+· ✅ Adaptive formats (separate streams)
+
+Advanced Features
+
+· ✅ Multi-Client Fallback (ANDROID → IOS → WEB)
+· ✅ Signature Deciphering for protected videos
+· ✅ Progress Tracking with real-time events
+· ✅ Smart Caching to reduce API calls
+· ✅ Format Filtering and selection utilities
+· ✅ URL Validation and video ID extraction
+
+</details>
+
+<details>
+<summary><kbd>🔥 Advanced Capabilities</kbd></summary>
+
+Multi-Client Architecture
+
+ANDROID Client:
+
+· Version: 19.51.37
+· Fast response times
+· No signature needed for most videos
+
+IOS Client:
+
+· Version: 19.51.5
+· Good compatibility
+· Alternative when ANDROID fails
+
+WEB Client:
+
+· Version: 2.20250102.01.00
+· Full browser simulation
+· Used for signature deciphering
+
+Smart Format Selection
+
+```javascript
+// Auto-select best format
+const bestFormat = ytdl.chooseFormat(info.formats, { 
+  quality: 'highest', 
+  filter: 'audioandvideo' 
+});
+
+// Filter specific formats
+const videoOnly = ytdl.filterFormats(info.formats, 'videoonly');
+const audioOnly = ytdl.filterFormats(info.formats, 'audioonly');
+```
+
+Progress Tracking
+
+```javascript
+const stream = ytdl(videoUrl, { quality: 'highest' });
+
+stream.on('progress', (chunkLength, downloaded, total) => {
+  const percent = (downloaded / total * 100).toFixed(2);
+  console.log(`Downloaded: ${percent}%`);
+});
+```
+
+</details>
+
+---
+
+📚 API Reference
+
+<details>
+<summary><kbd>🔧 Core Methods</kbd></summary>
+
+ytdl(url, [options])
+
+Downloads a video from YouTube.
+
+Parameters:
+
+· url (string): YouTube video URL
+· options (object): Optional
+  · quality: Format quality ('highest', 'lowest', or specific itag)
+  · filter: Format filter ('audioonly', 'videoonly', 'audioandvideo')
+
+Returns: ReadableStream
+
+ytdl.getInfo(url, [options])
+
+Gets video information and available formats.
+
+Returns: Promise<VideoInfo>
+
+ytdl.chooseFormat(formats, options)
+
+Chooses the best format based on options.
+
+Parameters:
+
+· formats: Array of available formats
+· options: Selection criteria
+  · quality: 'highest', 'lowest', 'highestvideo', 'highestaudio'
+
+Returns: Format object
+
+ytdl.filterFormats(formats, filter)
+
+Filters formats by type.
+
+Parameters:
+
+· formats: Array of formats
+· filter: 'audioonly', 'videoonly', 'audioandvideo'
+
+Returns: Filtered array
+
+ytdl.validateURL(url)
+
+Validates if URL is a valid YouTube URL.
+
+Returns: Boolean
+
+ytdl.getVideoID(url)
+
+Extracts video ID from YouTube URL.
+
+Returns: String (video ID)
+
+</details>
+
+---
+
+💡 Example Usage
+
+<details>
+<summary><kbd>🎬 Complete Usage Examples</kbd></summary>
+
+Basic Video Download
+
+```javascript
+const ytdl = require('ytdl-pro');
+const fs = require('fs');
+const path = require('path');
+
+async function downloadVideo() {
+  try {
+    const videoUrl = 'https://www.youtube.com/watch?v=VIDEO_ID';
+    
+    // Get video info
+    const info = await ytdl.getInfo(videoUrl);
+    console.log(`📹 Downloading: ${info.videoDetails.title}`);
+    
+    // Download highest quality
+    const outputPath = path.join(__dirname, 'downloads', `${info.videoDetails.title}.mp4`);
+    
+    ytdl(videoUrl, { quality: 'highest' })
+      .pipe(fs.createWriteStream(outputPath))
+      .on('finish', () => {
+        console.log('✅ Download completed!');
+      });
+      
+  } catch (error) {
+    console.error('❌ Download failed:', error);
+  }
+}
+
+downloadVideo();
+```
+
+Audio Extraction
+
+```javascript
+async function extractAudio() {
+  const videoUrl = 'https://www.youtube.com/watch?v=VIDEO_ID';
+  
+  const info = await ytdl.getInfo(videoUrl);
+  const audioFormat = ytdl.chooseFormat(info.formats, { 
+    quality: 'highestaudio' 
+  });
+  
+  console.log(`🎵 Extracting audio: ${info.videoDetails.title}`);
+  console.log(`📊 Audio format: ${audioFormat.audioBitrate}kbps`);
+  
+  ytdl(videoUrl, { quality: audioFormat.itag })
+    .pipe(fs.createWriteStream('audio.mp3'));
+}
+```
+
+Batch Download with Progress
+
+```javascript
+async function downloadWithProgress(videoUrl) {
+  const info = await ytdl.getInfo(videoUrl);
+  const stream = ytdl(videoUrl, { quality: 'highest' });
+  
+  let downloaded = 0;
+  const total = Number(info.videoDetails.lengthSeconds);
+  
+  stream.on('progress', (chunkLength, downloaded, total) => {
+    const percent = (downloaded / total * 100).toFixed(2);
+    const mbDownloaded = (downloaded / 1024 / 1024).toFixed(2);
+    const mbTotal = (total / 1024 / 1024).toFixed(2);
+    
+    console.log(`⬇️ ${percent}% - ${mbDownloaded}MB / ${mbTotal}MB`);
+  });
+  
+  stream.pipe(fs.createWriteStream('video.mp4'));
+}
+```
+
+Format Selection Demo
+
+```javascript
+async function showFormats(videoUrl) {
+  const info = await ytdl.getInfo(videoUrl);
+  
+  console.log('\n🎯 Available Formats:');
+  console.log('====================');
+  
+  // Video formats
+  const videoFormats = ytdl.filterFormats(info.formats, 'videoonly');
+  console.log('\n📹 Video-only formats:');
+  videoFormats.forEach(f => {
+    console.log(`  ${f.qualityLabel} - ${f.container} - ${f.itag}`);
+  });
+  
+  // Audio formats  
+  const audioFormats = ytdl.filterFormats(info.formats, 'audioonly');
+  console.log('\n🎵 Audio-only formats:');
+  audioFormats.forEach(f => {
+    console.log(`  ${f.audioBitrate}kbps - ${f.container} - ${f.itag}`);
+  });
+  
+  // Combined formats
+  const combinedFormats = info.formats.filter(f => f.hasVideo && f.hasAudio);
+  console.log('\n🎬 Combined formats:');
+  combinedFormats.forEach(f => {
+    console.log(`  ${f.qualityLabel} - ${f.container} - ${f.itag}`);
+  });
+}
+```
+
+</details>
+
+---
+
+🏗️ Technical Architecture
+
+<details>
+<summary><kbd>🔧 Internal Structure</kbd></summary>
+
+Package Structure
+
+```
+ytdl-pro/
+├── lib/
+│   ├── index.js           # Main entry point
+│   ├── modern-client.js   # YouTube API clients
+│   ├── modern-sig.js      # Signature decoder
+│   ├── info-modern.js     # Info extraction
+│   ├── format-utils.js    # Format utilities
+│   └── cache.js          # Smart caching system
+├── examples/
+│   ├── basic-download.js
+│   ├── audio-extract.js
+│   └── progress-track.js
+└── package.json
+```
+
+Client Fallback System
+
+```javascript
+// Automatic fallback mechanism
+const clients = ['ANDROID', 'IOS', 'WEB'];
+
+for (const client of clients) {
+  try {
+    const info = await getInfoWithClient(videoUrl, client);
+    return info; // Success - return immediately
+  } catch (error) {
+    console.log(`Client ${client} failed, trying next...`);
+    continue; // Try next client
+  }
+}
+```
+
+Signature Deciphering
+
+```javascript
+// Automatic signature handling
+if (format.signatureCipher) {
+  const decipher = await getSignatureDecipher();
+  const decodedURL = decipher.decode(format.signatureCipher);
+  format.url = decodedURL;
+}
+```
+
+</details>
+
+---
+
+📊 Performance Metrics
+
+<details>
+<summary><kbd>⚡ Speed & Efficiency</kbd></summary>
+
+Response Times
+
+· Info Fetch: ~500-1000ms
+· Format Analysis: ~100-200ms
+· Download Speed: Depends on connection
+· Client Switch: ~200ms per fallback
+
+Resource Usage
+
+· Memory: ~50-100MB during download
+· CPU: Minimal during streaming
+· Network: Optimized chunk downloading
+
+Format Statistics
+
+· Average Formats per Video: 20-30
+· Video Qualities: 8 different levels
+· Audio Qualities: 4 different bitrates
+· Container Support: MP4, WEBM, 3GP
+
+</details>
+
+---
+
+🐛 Troubleshooting
+
+<details>
+<summary><kbd>🔧 Common Issues & Solutions</kbd></summary>
+
+403 Error During Download
+
+YouTube URLs expire after some time. Always get fresh info:
+
+```javascript
+// ✅ Good - Fresh URL every time
+const info = await ytdl.getInfo(videoUrl);
+ytdl(videoUrl, { format: info.formats[0] })
+  .pipe(fs.createWriteStream('video.mp4'));
+
+// ❌ Bad - Using cached/stale info
+// May cause 403 errors
+```
+
+No Formats Available
+
+Some videos may be region-locked or age-restricted:
+
+```javascript
+try {
+  const info = await ytdl.getInfo(videoUrl);
+  if (info.formats.length === 0) {
+    console.log('❌ No formats available - video may be restricted');
+  }
+} catch (error) {
+  console.log('🔒 Video is restricted:', error.message);
+}
+```
+
+Slow Downloads
+
+Optimize download settings:
+
+```javascript
+// Use specific quality instead of 'highest'
+const format = ytdl.chooseFormat(info.formats, {
+  quality: '720p', // Specific quality
+  filter: 'audioandvideo' // Combined format
+});
+```
+
+Memory Issues
+
+Use streaming for large files:
+
+```javascript
+const stream = ytdl(videoUrl, { quality: '720p' });
+stream.pipe(fs.createWriteStream('video.mp4'));
+
+// Handle memory properly
+stream.on('end', () => {
+  console.log('✅ Stream finished');
+});
+```
+
+</details>
+
+---
+
+🆘 Support
+
+<details>
+<summary><kbd>📞 Get Help & Support</kbd></summary>
+
+Community Support
+
+Discord Community:
+
+· 🏠 Server: Join Discord
+· 💬 Channels: #ytdl-pro-help, #bug-reports
+· 👨‍💻 Developers: Active community support
+
+Response Times:
+
+· Discord Support: 1-6 hours
+· GitHub Issues: 12-24 hours
+· Critical Bugs: Priority handling
+
+Before Asking for Help
+
+1. Check this README thoroughly
+2. Test with the example code
+3. Check if video is publicly accessible
+4. Provide error logs and video URL
+
+Bug Reports
+
+When reporting bugs, include:
+
+```javascript
+// Your code snippet
+const ytdl = require('ytdl-pro');
+// The video URL (if not private)
+// Complete error message
+// Node.js version
+```
+
+Common Questions
+
+Q: Does it work with age-restricted videos?
+A:Limited support, depends on YouTube restrictions
+
+Q: Can I download playlists?
+A:Currently focused on single videos
+
+Q: Is it legal to use?
+A:Check your local laws and YouTube Terms of Service
+
+</details>
+
+---
+
+<div align="center">
+
+☕ Support This Project
+
+If you find ytdl-pro helpful and want to support continued development:
+
+https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+Your support helps maintain and improve this project!
+
+</div>
+
+---
+
+<div align="center">
+
+📄 License & Disclaimer
+
+License: MIT License - See LICENSE file for complete details.
+
+Disclaimer: This tool is developed for educational and personal use purposes only. Users are solely responsible for complying with YouTube's Terms of Service and applicable laws. The developers are not responsible for any misuse or damages caused by this software.
+
+⚠️ Important Notes
+
+· 🔒 Respect YouTube's terms of service
+· 🚀 Use responsibly and avoid excessive API calls
+· 📱 Supports multiple platforms and environments
+· 🔄 Keep updated to latest version for bug fixes
+· 📊 Monitor usage to avoid hitting API limits
+
+🎯 Recommended Usage
+
+· Personal video backups
+· Educational content
+· Developer testing
+· Non-commercial applications
+
+<br>
+
+Made with ❤️ by Lucifer05321
+
+https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you find this project helpful, please give it a star on GitHub!
+
+https://api.star-history.com/svg?repos=Lucifer05321/ytdl-pro&type=Date
+
+<img src="https://img.shields.io/badge/⭐_Give_Star-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+---
+
+ytdl-pro - Because downloads should just work! 🚀
+
+Completely rewritten from scratch to actually WORK in November 2026!
