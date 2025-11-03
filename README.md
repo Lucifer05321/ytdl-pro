@@ -124,14 +124,14 @@ The original ytdl-core package was abandoned 2-3 years ago and stopped working. 
 </details>
 
 ---
+---
 
-📥 INSTALLATION
+## 📦 Installation
 
 <details>
 <summary><kbd>📥 Installation Methods</kbd></summary>
 
-Basic Installation
-
+### Basic Installation
 ```bash
 npm install ytdl-pro
 ```
@@ -161,9 +161,9 @@ console.log('✅ ytdl-pro installed successfully!');
 
 ---
 
-🚀 QUICK START
+🚀 Quick Start
 
-</details>
+<details>
 <summary><kbd>🎯 Basic Usage Examples</kbd></summary>
 
 Download Video Information
@@ -210,63 +210,67 @@ ytdl(videoUrl, { quality: audioFormat.itag })
   .pipe(fs.createWriteStream('audio.' + audioFormat.container));
 ```
 
+</details>
+
 ---
 
-<div align="left">
+🎯 Features
 
-# 🎯 Features
+<details>
+<summary><kbd>🚀 Enhanced Features</kbd></summary>
+
+· 🔥 Modern YouTube InnerTube API
+· ⚡ Multi-client support (ANDROID, IOS, WEB)
+· 🎯 Support for 1080p, 1440p, 4K video downloads
+· 🎵 High-quality audio-only downloads
+· 🚀 Lightning-fast performance
+· 💪 Actively maintained and updated
+· 🔒 Signature deciphering (when needed)
+· 📊 Progress tracking with real-time events
+· 🏗️ Smart caching for reduced API calls
+
+</details>
 
 <details>
 <summary><kbd>✅ What Works Perfectly</kbd></summary>
 
----
+🖥️ Video Quality Support
 
-### 🖥️ Video Quality Support
+· ✅ 4K (2160p) — Ultra HD
+· ✅ 1440p (2K) — Quad HD
+· ✅ 1080p — Full HD
+· ✅ 720p — HD Ready
+· ✅ 480p — Standard Definition
+· ✅ 360p — Medium Quality
+· ✅ 240p — Low Quality
+· ✅ 144p — Minimum Quality
 
-- ✅ **4K (2160p)** — Ultra HD  
-- ✅ **1440p (2K)** — Quad HD  
-- ✅ **1080p** — Full HD  
-- ✅ **720p** — HD Ready  
-- ✅ **480p** — Standard Definition  
-- ✅ **360p** — Medium Quality  
-- ✅ **240p** — Low Quality  
-- ✅ **144p** — Minimum Quality  
+🎧 Audio Quality Support
 
----
+· ✅ 160kbps — High Quality
+· ✅ 128kbps — Standard Quality
+· ✅ 70kbps — Medium Quality
+· ✅ 50kbps — Low Quality
 
-### 🎧 Audio Quality Support
+💾 Format Types
 
-- ✅ **160kbps** — High Quality  
-- ✅ **128kbps** — Standard Quality  
-- ✅ **70kbps** — Medium Quality  
-- ✅ **50kbps** — Low Quality  
+· ✅ Video-only formats (for custom merging)
+· ✅ Audio-only formats (music extraction)
+· ✅ Combined formats (video + audio)
+· ✅ Adaptive formats (separate streams)
 
----
+⚙️ Advanced Features
 
-### 💾 Format Types
+· ✅ Multi-Client Fallback (ANDROID → IOS → WEB)
+· ✅ Signature Deciphering for protected videos
+· ✅ Progress Tracking with real-time events
+· ✅ Smart Caching to reduce API calls
+· ✅ Format Filtering & Selection Utilities
+· ✅ URL Validation and video ID extraction
 
-- ✅ **Video-only formats** (for custom merging)  
-- ✅ **Audio-only formats** (music extraction)  
-- ✅ **Combined formats** (video + audio)  
-- ✅ **Adaptive formats** (separate streams)  
-
----
-
-### ⚙️ Advanced Features
-
-- ✅ **Multi-Client Fallback** (ANDROID → IOS → WEB)  
-- ✅ **Signature Deciphering** for protected videos  
-- ✅ **Progress Tracking** with real-time events  
-- ✅ **Smart Caching** to reduce API calls  
-- ✅ **Format Filtering & Selection Utilities**  
-- ✅ **URL Validation** and video ID extraction  
-
+</details>
 
 <details>
-
----
-
-
 <summary><kbd>🔥 Advanced Capabilities</kbd></summary>
 
 Multi-Client Architecture
@@ -318,7 +322,7 @@ stream.on('progress', (chunkLength, downloaded, total) => {
 
 ---
 
-📚 API REFERENCE
+📚 API Reference
 
 <details>
 <summary><kbd>🔧 Core Methods</kbd></summary>
@@ -381,7 +385,7 @@ Returns: String (video ID)
 
 ---
 
-💡 EXAMPLES
+💡 Examples
 
 <details>
 <summary><kbd>🎬 Complete Usage Examples</kbd></summary>
@@ -643,7 +647,7 @@ stream.on('end', () => {
 
 ---
 
-🆘 SUPPORT
+🆘 Support
 
 <details>
 <summary><kbd>📞 Get Help & Support</kbd></summary>
@@ -693,7 +697,6 @@ Q: Is it legal to use?
 A:Check your local laws and YouTube Terms of Service
 
 </details>
-
 ---
 
 <div align="center">
