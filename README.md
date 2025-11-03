@@ -110,7 +110,7 @@ The original ytdl-core package was abandoned 2-3 years ago and stopped working. 
 
 <details>
 <summary><kbd>🚀 Enhanced Features</kbd></summary>
-    
+<div align="left">    
 · 🔥 Modern YouTube InnerTube API
 · ⚡ Multi-client support (ANDROID, IOS, WEB)
 · 🎯 Support for 1080p, 1440p, 4K video downloads
@@ -218,7 +218,7 @@ ytdl(videoUrl, { quality: audioFormat.itag })
 
 <details>
 <summary><kbd>🚀 Enhanced Features</kbd></summary>
-
+<div align="left">
 · 🔥 Modern YouTube InnerTube API
 · ⚡ Multi-client support (ANDROID, IOS, WEB)
 · 🎯 Support for 1080p, 1440p, 4K video downloads
@@ -233,7 +233,7 @@ ytdl(videoUrl, { quality: audioFormat.itag })
 
 <details>
 <summary><kbd>✅ What Works Perfectly</kbd></summary>
-
+<div align="left">
 🖥️ Video Quality Support
 
 · ✅ 4K (2160p) — Ultra HD
