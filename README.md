@@ -43,7 +43,6 @@ Professional YouTube Video Downloader - The Ultimate Solution!
 <br>
 
 <div align="center">
-<div align="center">
 
 # ☆ Quick Navigation
 
@@ -69,6 +68,7 @@ Professional YouTube Video Downloader - The Ultimate Solution!
 </div>
 
 ---
+
 
 
 <br>
@@ -738,7 +738,9 @@ Disclaimer: This tool is developed for educational and personal use purposes onl
 
 https://api.star-history.com/svg?repos=Lucifer05321/ytdl-pro&type=Date
 
-<img src="https://img.shields.io/badge/⭐_Give_Star-181717?style=for-the-badge&logo=github&logoColor=white" />
+## ☆ Repository Star Growth
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Lucifer05321/ytdl-pro&type=Date)](https://star-history.com/#Lucifer05321/ytdl-pro&Date)
 
 </div>
 
