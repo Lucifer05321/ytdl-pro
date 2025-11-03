@@ -262,10 +262,6 @@ ytdl(videoUrl, { quality: audioFormat.itag })
 
 ---
 
-</details>
-
-</div>
-
 <details>
 <summary><kbd>🔥 Advanced Capabilities</kbd></summary>
 
