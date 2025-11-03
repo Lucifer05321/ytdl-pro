@@ -43,14 +43,15 @@ Professional YouTube Video Downloader - The Ultimate Solution!
 <br>
 
 <div align="center">
+<div align="center">
 
-🔥 Quick Navigation
+# ☆ Quick Navigation
 
-https://img.shields.io/badge/📥_INSTALLATION-4285F4?style=for-the-badge&logo=download&logoColor=white
-https://img.shields.io/badge/🚀_QUICK_START-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white
-https://img.shields.io/badge/📚_API_REFERENCE-34A853?style=for-the-badge&logo=book&logoColor=white
-https://img.shields.io/badge/💡_EXAMPLES-FFA500?style=for-the-badge&logo=code&logoColor=white
-https://img.shields.io/badge/🆘_SUPPORT-E4405F?style=for-the-badge&logo=help&logoColor=white
+[![📥 INSTALLATION](https://img.shields.io/badge/📥_INSTALLATION-4285F4?style=for-the-badge&logo=download&logoColor=white)](#)
+[![🚀 QUICK START](https://img.shields.io/badge/🚀_QUICK_START-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](#)
+[![📚 API REFERENCE](https://img.shields.io/badge/📚_API_REFERENCE-34A853?style=for-the-badge&logo=book&logoColor=white)](#)
+[![💡 EXAMPLES](https://img.shields.io/badge/💡_EXAMPLES-FFA500?style=for-the-badge&logo=code&logoColor=white)](#)
+[![🆘 SUPPORT](https://img.shields.io/badge/🆘_SUPPORT-E4405F?style=for-the-badge&logo=help&logoColor=white)](#)
 
 </div>
 
@@ -58,14 +59,17 @@ https://img.shields.io/badge/🆘_SUPPORT-E4405F?style=for-the-badge&logo=help&l
 
 <div align="center">
 
-🔗 Connect With Me
+# ☆ Connect With Me
 
-https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+[![Website Lucifer Domains](https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucifer-nukers.netlify.app/)
+[![Discord Community](https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uaSvNgGCWp)
+[![Instagram Developer](https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![GitHub Source Code](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucifer05321)
 
 </div>
+
+---
+
 
 <br>
 
@@ -711,17 +715,22 @@ Disclaimer: This tool is developed for educational and personal use purposes onl
 · Non-commercial applications
 
 <br>
+<br>
 
-Made with ❤️ by Lucifer05321
+<div align="center">
 
-https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+## ♤ Made with ♡ by [Lucifer05321](https://github.com/Lucifer05321)
+
+[![Website Lucifer Domains](https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucifer-nukers.netlify.app/)
+[![Discord Community](https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uaSvNgGCWp)
+[![Instagram Developer](https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![GitHub Source Code](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucifer05321)
 
 </div>
 
 ---
+
+◇ Powered by Lucifer
 
 <div align="center">
 
