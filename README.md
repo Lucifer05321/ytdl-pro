@@ -73,7 +73,7 @@ Professional YouTube Video Downloader - The Ultimate Solution!
 
 <br>
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" />
 
 <br>
 
@@ -163,6 +163,7 @@ console.log('✅ ytdl-pro installed successfully!');
 
 🚀 QUICK START
 
+</details>
 <summary><kbd>🎯 Basic Usage Examples</kbd></summary>
 
 Download Video Information
@@ -260,9 +261,12 @@ ytdl(videoUrl, { quality: audioFormat.itag })
 - ✅ **Format Filtering & Selection Utilities**  
 - ✅ **URL Validation** and video ID extraction  
 
----
 
 <details>
+
+---
+
+
 <summary><kbd>🔥 Advanced Capabilities</kbd></summary>
 
 Multi-Client Architecture
