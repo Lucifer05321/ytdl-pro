@@ -737,4 +737,4 @@ https://api.star-history.com/svg?repos=Lucifer05321/ytdl-pro&type=Date
 
 ytdl-pro - Because downloads should just work! 🚀
 
-Completely rewritten from scratch to actually WORK in November 2026!
+Completely rewritten from scratch to actually WORK in November 2025!
