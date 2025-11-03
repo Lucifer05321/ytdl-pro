@@ -108,6 +108,8 @@ ytdl-pro is a powerful, modern YouTube video downloader package built with the l
 
 The original ytdl-core package was abandoned 2-3 years ago and stopped working. I've completely rebuilt it with modern technology:
 
+<div align="left">
+    
 <details>
 <summary><kbd>🚀 Enhanced Features</kbd></summary>
     
@@ -209,6 +211,8 @@ const audioFormat = ytdl.chooseFormat(info.formats, { quality: 'highestaudio' })
 ytdl(videoUrl, { quality: audioFormat.itag })
   .pipe(fs.createWriteStream('audio.' + audioFormat.container));
 ```
+
+<details>
 
 <div align="left">
 
