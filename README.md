@@ -215,7 +215,7 @@ ytdl(videoUrl, { quality: audioFormat.itag })
 ---
 
 🎯 Features
-
+<details>
 <summary><kbd>✅ What Works Perfectly</kbd></summary>
 
 Video Quality Support
