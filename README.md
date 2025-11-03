@@ -109,8 +109,8 @@ ytdl-pro is a powerful, modern YouTube video downloader package built with the l
 The original ytdl-core package was abandoned 2-3 years ago and stopped working. I've completely rebuilt it with modern technology:
 
 <details>
-<summary><kbd>🚀 Enhanced Features</kbd></summary>
-
+<summary><kbd>🚀 Enhanced Features</kbd>
+    
 · 🔥 Modern YouTube InnerTube API
 · ⚡ Multi-client support (ANDROID, IOS, WEB)
 · 🎯 Support for 1080p, 1440p, 4K video downloads
@@ -216,7 +216,6 @@ ytdl(videoUrl, { quality: audioFormat.itag })
 
 🎯 Features
 
-<details>
 <summary><kbd>✅ What Works Perfectly</kbd></summary>
 
 Video Quality Support
