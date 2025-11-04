@@ -1,10 +1,10 @@
-ytdl-pro 🚀
-
-Professional YouTube Video Downloader - The Ultimate Solution!
-
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml@0a824f72b6827f367383dc1a6b61cfad4a797f44/Cloud/Lucifer_web/Lucifer-ytdl-pro.gif" height="10000" />
+# ytdl-pro 🚀
+
+**Professional YouTube Video Downloader - The Ultimate Solution!**
+
+<img src="https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml@0a824f72b6827f367383dc1a6b61cfad4a797f44/Cloud/Lucifer_web/Lucifer-ytdl-pro.gif" height="300" />
 
 <br>
 
@@ -44,13 +44,13 @@ Professional YouTube Video Downloader - The Ultimate Solution!
 
 <div align="center">
 
-# ☆ Quick Navigation
+## ☆ Quick Navigation
 
-[![📥 INSTALLATION](https://img.shields.io/badge/📥_INSTALLATION-4285F4?style=for-the-badge&logo=download&logoColor=white)](#)
-[![🚀 QUICK START](https://img.shields.io/badge/🚀_QUICK_START-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](#)
-[![📚 API REFERENCE](https://img.shields.io/badge/📚_API_REFERENCE-34A853?style=for-the-badge&logo=book&logoColor=white)](#)
-[![💡 EXAMPLES](https://img.shields.io/badge/💡_EXAMPLES-FFA500?style=for-the-badge&logo=code&logoColor=white)](#)
-[![🆘 SUPPORT](https://img.shields.io/badge/🆘_SUPPORT-E4405F?style=for-the-badge&logo=help&logoColor=white)](#)
+[![📥 INSTALLATION](https://img.shields.io/badge/📥_INSTALLATION-4285F4?style=for-the-badge&logo=download&logoColor=white)](#installation)
+[![🚀 QUICK START](https://img.shields.io/badge/🚀_QUICK_START-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](#quick-start)
+[![📚 API REFERENCE](https://img.shields.io/badge/📚_API_REFERENCE-34A853?style=for-the-badge&logo=book&logoColor=white)](#api-reference)
+[![💡 EXAMPLES](https://img.shields.io/badge/💡_EXAMPLES-FFA500?style=for-the-badge&logo=code&logoColor=white)](#examples)
+[![🆘 SUPPORT](https://img.shields.io/badge/🆘_SUPPORT-E4405F?style=for-the-badge&logo=help&logoColor=white)](#support)
 
 </div>
 
@@ -58,7 +58,7 @@ Professional YouTube Video Downloader - The Ultimate Solution!
 
 <div align="center">
 
-# ☆ Connect With Me
+## ☆ Connect With Me
 
 [![Website Lucifer Domains](https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucifer-nukers.netlify.app/)
 [![Discord Community](https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uaSvNgGCWp)
@@ -69,17 +69,12 @@ Professional YouTube Video Downloader - The Ultimate Solution!
 
 ---
 
-
-
-<br>
-
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" />
-
-<br>
 
 </div>
 
 ---
+
 ## 📊 Why Choose ytdl-pro? 🆚
 
 <div align="center">
@@ -99,40 +94,135 @@ Professional YouTube Video Downloader - The Ultimate Solution!
 
 ---
 
-
-🌟 About
+## 🌟 About
 
 ytdl-pro is a powerful, modern YouTube video downloader package built with the latest YouTube API integration. This is a completely rewritten and enhanced version that actually WORKS - unlike the abandoned ytdl-core package!
 
-✨ Why ytdl-pro?
+### ✨ Why ytdl-pro?
 
 The original ytdl-core package was abandoned 2-3 years ago and stopped working. I've completely rebuilt it with modern technology:
 
-<div align="left">    
-<details>
-<summary><kbd>🚀 Enhanced Features</kbd></summary>
+---
 
-· 🔥 Modern YouTube InnerTube API
-· ⚡ Multi-client support (ANDROID, IOS, WEB)
-· 🎯 Support for 1080p, 1440p, 4K video downloads
-· 🎵 High-quality audio-only downloads
-· 🚀 Lightning-fast performance
-· 💪 Actively maintained and updated
-· 🔒 Signature deciphering (when needed)
-· 📊 Progress tracking with real-time events
-· 🏗️ Smart caching for reduced API calls
+## 🎯 Features
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 30px 0;">
+
+<div>
+
+### 🚀 Enhanced Features
+<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border-left: 4px solid #00ff88;">
+<ul style="list-style: none; padding: 0; margin: 0;">
+<li>✅ <strong>Modern YouTube InnerTube API</strong></li>
+<li>✅ <strong>Multi-client support</strong> (ANDROID, IOS, WEB)</li>
+<li>✅ <strong>Support for 1080p, 1440p, 4K video downloads</strong></li>
+<li>✅ <strong>High-quality audio-only downloads</strong></li>
+<li>✅ <strong>Lightning-fast performance</strong></li>
+<li>✅ <strong>Actively maintained and updated</strong></li>
+<li>✅ <strong>Signature deciphering</strong> (when needed)</li>
+<li>✅ <strong>Progress tracking</strong> with real-time events</li>
+<li>✅ <strong>Smart caching</strong> for reduced API calls</li>
+</ul>
+</div>
+
+</div>
+
+<div>
+
+### ✅ What Works Perfectly
+<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border-left: 4px solid #ff6b00;">
+<ul style="list-style: none; padding: 0; margin: 0;">
+
+<li><strong>🎥 Video Quality Support</strong></li>
+<ul style="list-style: none; padding-left: 20px;">
+<li>✅ <strong>4K (2160p)</strong> — Ultra HD</li>
+<li>✅ <strong>1440p (2K)</strong> — Quad HD</li>
+<li>✅ <strong>1080p</strong> — Full HD</li>
+<li>✅ <strong>720p</strong> — HD Ready</li>
+<li>✅ <strong>480p</strong> — Standard Definition</li>
+<li>✅ <strong>360p</strong> — Medium Quality</li>
+<li>✅ <strong>240p</strong> — Low Quality</li>
+<li>✅ <strong>144p</strong> — Minimum Quality</li>
+</ul>
+
+<li><strong>🎧 Audio Quality Support</strong></li>
+<ul style="list-style: none; padding-left: 20px;">
+<li>✅ <strong>160kbps</strong> — High Quality</li>
+<li>✅ <strong>128kbps</strong> — Standard Quality</li>
+<li>✅ <strong>70kbps</strong> — Medium Quality</li>
+<li>✅ <strong>50kbps</strong> — Low Quality</li>
+</ul>
+
+<li><strong>💾 Format Types</strong></li>
+<ul style="list-style: none; padding-left: 20px;">
+<li>✅ <strong>Video-only formats</strong> (for custom merging)</li>
+<li>✅ <strong>Audio-only formats</strong> (music extraction)</li>
+<li>✅ <strong>Combined formats</strong> (video + audio)</li>
+<li>✅ <strong>Adaptive formats</strong> (separate streams)</li>
+</ul>
+
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<details>
+<summary><kbd>🔥 Advanced Capabilities</kbd></summary>
+
+### Multi-Client Architecture
+
+**ANDROID Client:**
+- Version: 19.51.37
+- Fast response times
+- No signature needed for most videos
+
+**IOS Client:**
+- Version: 19.51.5
+- Good compatibility
+- Alternative when ANDROID fails
+
+**WEB Client:**
+- Version: 2.20250102.01.00
+- Full browser simulation
+- Used for signature deciphering
+
+### Smart Format Selection
+```javascript
+// Auto-select best format
+const bestFormat = ytdl.chooseFormat(info.formats, { 
+  quality: 'highest', 
+  filter: 'audioandvideo' 
+});
+
+// Filter specific formats
+const videoOnly = ytdl.filterFormats(info.formats, 'videoonly');
+const audioOnly = ytdl.filterFormats(info.formats, 'audioonly');
+```
+
+Progress Tracking
+
+```javascript
+const stream = ytdl(videoUrl, { quality: 'highest' });
+
+stream.on('progress', (chunkLength, downloaded, total) => {
+  const percent = (downloaded / total * 100).toFixed(2);
+  console.log(`Downloaded: ${percent}%`);
+});
+```
 
 </details>
 
 ---
----
 
-## 📦 Installation
+📥 Installation
 
 <details>
 <summary><kbd>📥 Installation Methods</kbd></summary>
 
-### Basic Installation
+Basic Installation
+
 ```bash
 npm install ytdl-pro
 ```
@@ -209,114 +299,6 @@ const audioFormat = ytdl.chooseFormat(info.formats, { quality: 'highestaudio' })
 
 ytdl(videoUrl, { quality: audioFormat.itag })
   .pipe(fs.createWriteStream('audio.' + audioFormat.container));
-```
-
-</details>
-
----
-
-🎯 Features
-
-<details>
-<summary><kbd>🚀 Enhanced Features</kbd></summary>
-<div align="left">
-· 🔥 Modern YouTube InnerTube API
-· ⚡ Multi-client support (ANDROID, IOS, WEB)
-· 🎯 Support for 1080p, 1440p, 4K video downloads
-· 🎵 High-quality audio-only downloads
-· 🚀 Lightning-fast performance
-· 💪 Actively maintained and updated
-· 🔒 Signature deciphering (when needed)
-· 📊 Progress tracking with real-time events
-· 🏗️ Smart caching for reduced API calls
-
-</details>
-
-<details>
-<summary><kbd>✅ What Works Perfectly</kbd></summary>
-<div align="left">
-🖥️ Video Quality Support
-
-· ✅ 4K (2160p) — Ultra HD
-· ✅ 1440p (2K) — Quad HD
-· ✅ 1080p — Full HD
-· ✅ 720p — HD Ready
-· ✅ 480p — Standard Definition
-· ✅ 360p — Medium Quality
-· ✅ 240p — Low Quality
-· ✅ 144p — Minimum Quality
-
-🎧 Audio Quality Support
-
-· ✅ 160kbps — High Quality
-· ✅ 128kbps — Standard Quality
-· ✅ 70kbps — Medium Quality
-· ✅ 50kbps — Low Quality
-
-💾 Format Types
-
-· ✅ Video-only formats (for custom merging)
-· ✅ Audio-only formats (music extraction)
-· ✅ Combined formats (video + audio)
-· ✅ Adaptive formats (separate streams)
-
-⚙️ Advanced Features
-
-· ✅ Multi-Client Fallback (ANDROID → IOS → WEB)
-· ✅ Signature Deciphering for protected videos
-· ✅ Progress Tracking with real-time events
-· ✅ Smart Caching to reduce API calls
-· ✅ Format Filtering & Selection Utilities
-· ✅ URL Validation and video ID extraction
-
-</details>
-
-<details>
-<summary><kbd>🔥 Advanced Capabilities</kbd></summary>
-
-Multi-Client Architecture
-
-ANDROID Client:
-
-· Version: 19.51.37
-· Fast response times
-· No signature needed for most videos
-
-IOS Client:
-
-· Version: 19.51.5
-· Good compatibility
-· Alternative when ANDROID fails
-
-WEB Client:
-
-· Version: 2.20250102.01.00
-· Full browser simulation
-· Used for signature deciphering
-
-Smart Format Selection
-
-```javascript
-// Auto-select best format
-const bestFormat = ytdl.chooseFormat(info.formats, { 
-  quality: 'highest', 
-  filter: 'audioandvideo' 
-});
-
-// Filter specific formats
-const videoOnly = ytdl.filterFormats(info.formats, 'videoonly');
-const audioOnly = ytdl.filterFormats(info.formats, 'audioonly');
-```
-
-Progress Tracking
-
-```javascript
-const stream = ytdl(videoUrl, { quality: 'highest' });
-
-stream.on('progress', (chunkLength, downloaded, total) => {
-  const percent = (downloaded / total * 100).toFixed(2);
-  console.log(`Downloaded: ${percent}%`);
-});
 ```
 
 </details>
@@ -650,7 +632,7 @@ stream.on('end', () => {
 
 🆘 Support
 
-<details>
+<details id="support">
 <summary><kbd>📞 Get Help & Support</kbd></summary>
 
 Community Support
@@ -698,17 +680,18 @@ Q: Is it legal to use?
 A:Check your local laws and YouTube Terms of Service
 
 </details>
+
 ---
 
 <div align="center">
 
-## ☕ Support This Project
+☕ Support This Project
 
-If you find **ytdl-pro** helpful and want to support its continued development:
+If you find ytdl-pro helpful and want to support its continued development:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 
-Your support helps maintain and improve this project.  
+Your support helps maintain and improve this project.
 
 </div>
 
@@ -738,16 +721,13 @@ Disclaimer: This tool is developed for educational and personal use purposes onl
 · Non-commercial applications
 
 <br>
-<br>
 
-<div align="center">
+♤ Made with ♡ by Lucifer05321
 
-## ♤ Made with ♡ by [Lucifer05321](https://github.com/Lucifer05321)
-
-[![Website Lucifer Domains](https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucifer-nukers.netlify.app/)
-[![Discord Community](https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uaSvNgGCWp)
-[![Instagram Developer](https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![GitHub Source Code](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucifer05321)
+https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
 
 </div>
 
@@ -755,22 +735,63 @@ Disclaimer: This tool is developed for educational and personal use purposes onl
 
 <div align="center">
 
-## ⭐ If you find this project helpful, please give it a star on GitHub!
+⭐ If you find this project helpful, please give it a star on GitHub!
 
-
-[![★ Star this repo](https://img.shields.io/badge/★_Star_this_repo-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucifer05321/ytdl-pro/stargazers)
-
+https://img.shields.io/badge/★_Star_this_repo-8B0000?style=for-the-badge&logo=github&logoColor=white
 
 </div>
 
-## ☆ Repository Star Growth
+<div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Lucifer05321/ytdl-pro&type=Date)](https://star-history.com/#Lucifer05321/ytdl-pro&Date)
+☆ Repository Star Growth
+
+https://api.star-history.com/svg?repos=Lucifer05321/ytdl-pro&type=Date
 
 </div>
 
 ---
+
+<div align="center">
 
 ytdl-pro - Because downloads should just work! 🚀
 
 Completely rewritten from scratch to actually WORK in November 2025!
+
+</div>
+
+<style>
+/* Smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Style for quick navigation */
+.quick-nav {
+  text-align: center;
+  margin: 20px 0;
+  padding: 15px;
+  background: #1a1a1a;
+  border-radius: 10px;
+}
+
+.quick-nav a {
+  color: #00ff88;
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+.quick-nav a:hover {
+  background: #00ff88;
+  color: #000;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .features-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
