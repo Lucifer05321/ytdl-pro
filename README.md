@@ -127,7 +127,7 @@ The original ytdl-core package was abandoned 2-3 years ago and stopped working. 
 ---
 ---
 
-## 📦 Installation {#-installation}
+📦 Installation
 
 <details>
 <summary><kbd>📥 Installation Methods</kbd></summary>
@@ -162,7 +162,7 @@ console.log('✅ ytdl-pro installed successfully!');
 
 ---
 
-## 🚀 Quick Start {#-quick-start}
+🚀 Quick Start
 
 <details>
 <summary><kbd>🎯 Basic Usage Examples</kbd></summary>
@@ -314,7 +314,7 @@ stream.on('progress', (chunkLength, downloaded, total) => {
 
 ---
 
-## 📚 API Reference {#-api-reference}
+📚 API Reference 
 
 <details>
 <summary><kbd>🔧 Core Methods</kbd></summary>
@@ -377,7 +377,7 @@ Returns: String (video ID)
 
 ---
 
-## 💡 Examples {#-examples}
+💡 Examples
 
 <details>
 <summary><kbd>🎬 Complete Usage Examples</kbd></summary>
@@ -639,7 +639,7 @@ stream.on('end', () => {
 
 ---
 
-## 🆘 Support {#-support}
+🆘 Support
 
 <details>
 <summary><kbd>📞 Get Help & Support</kbd></summary>
