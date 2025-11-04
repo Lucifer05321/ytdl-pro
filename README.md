@@ -219,17 +219,15 @@ ytdl(videoUrl, { quality: audioFormat.itag })
 
 <details>
 <summary><kbd>🚀 Enhanced Features</kbd></summary>
-<div align="left">
-· 🔥 Modern YouTube InnerTube API
-· ⚡ Multi-client support (ANDROID, IOS, WEB)
-· 🎯 Support for 1080p, 1440p, 4K video downloads
-· 🎵 High-quality audio-only downloads
-· 🚀 Lightning-fast performance
-· 💪 Actively maintained and updated
-· 🔒 Signature deciphering (when needed)
-· 📊 Progress tracking with real-time events
-· 🏗️ Smart caching for reduced API calls
-
+<li>✅ <strong>Modern YouTube InnerTube API</strong></li>
+<li>✅ <strong>Multi-client support</strong> (ANDROID, IOS, WEB)</li>
+<li>✅ <strong>Support for 1080p, 1440p, 4K video downloads</strong></li>
+<li>✅ <strong>High-quality audio-only downloads</strong></li>
+<li>✅ <strong>Lightning-fast performance</strong></li>
+<li>✅ <strong>Actively maintained and updated</strong></li>
+<li>✅ <strong>Signature deciphering</strong> (when needed)</li>
+<li>✅ <strong>Progress tracking</strong> with real-time events</li>
+<li>✅ <strong>Smart caching</strong> for reduced API calls</li>
 </details>
 
 <details>
