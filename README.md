@@ -46,11 +46,11 @@ Professional YouTube Video Downloader - The Ultimate Solution!
 
 # ☆ Quick Navigation
 
-[![📥 INSTALLATION](https://img.shields.io/badge/📥_INSTALLATION-4285F4?style=for-the-badge&logo=download&logoColor=white)](#)
-[![🚀 QUICK START](https://img.shields.io/badge/🚀_QUICK_START-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](#)
-[![📚 API REFERENCE](https://img.shields.io/badge/📚_API_REFERENCE-34A853?style=for-the-badge&logo=book&logoColor=white)](#)
-[![💡 EXAMPLES](https://img.shields.io/badge/💡_EXAMPLES-FFA500?style=for-the-badge&logo=code&logoColor=white)](#)
-[![🆘 SUPPORT](https://img.shields.io/badge/🆘_SUPPORT-E4405F?style=for-the-badge&logo=help&logoColor=white)](#)
+[![📥 INSTALLATION](https://img.shields.io/badge/📥_INSTALLATION-4285F4?style=for-the-badge&logo=download&logoColor=white)](#-installation)
+[![🚀 QUICK START](https://img.shields.io/badge/🚀_QUICK_START-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](#-quick-start)
+[![📚 API REFERENCE](https://img.shields.io/badge/📚_API_REFERENCE-34A853?style=for-the-badge&logo=book&logoColor=white)](#-api-reference)
+[![💡 EXAMPLES](https://img.shields.io/badge/💡_EXAMPLES-FFA500?style=for-the-badge&logo=code&logoColor=white)](#-examples)
+[![🆘 SUPPORT](https://img.shields.io/badge/🆘_SUPPORT-E4405F?style=for-the-badge&logo=help&logoColor=white)](#-support)
 
 </div>
 
@@ -127,7 +127,7 @@ The original ytdl-core package was abandoned 2-3 years ago and stopped working. 
 ---
 ---
 
-## 📦 Installation
+## 📦 Installation {#-installation}
 
 <details>
 <summary><kbd>📥 Installation Methods</kbd></summary>
@@ -162,7 +162,7 @@ console.log('✅ ytdl-pro installed successfully!');
 
 ---
 
-🚀 Quick Start
+## 🚀 Quick Start {#-quick-start}
 
 <details>
 <summary><kbd>🎯 Basic Usage Examples</kbd></summary>
@@ -314,7 +314,7 @@ stream.on('progress', (chunkLength, downloaded, total) => {
 
 ---
 
-📚 API Reference
+## 📚 API Reference {#-api-reference}
 
 <details>
 <summary><kbd>🔧 Core Methods</kbd></summary>
@@ -377,7 +377,7 @@ Returns: String (video ID)
 
 ---
 
-💡 Examples
+## 💡 Examples {#-examples}
 
 <details>
 <summary><kbd>🎬 Complete Usage Examples</kbd></summary>
@@ -639,7 +639,7 @@ stream.on('end', () => {
 
 ---
 
-🆘 Support
+## 🆘 Support {#-support}
 
 <details>
 <summary><kbd>📞 Get Help & Support</kbd></summary>
