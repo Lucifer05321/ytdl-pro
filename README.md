@@ -2,9 +2,8 @@ ytdl-pro 🚀
 
 Professional YouTube Video Downloader - The Ultimate Solution!
 
-<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml@0a824f72b6827f367383dc1a6b61cfad4a797f44/Cloud/Lucifer_web/Lucifer-ytdl-pro.gif" height="10000" />
+<img src="https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml@0a824f72b6827f367383dc1a6b61cfad4a797f44/Cloud/Lucifer_web/Lucifer-ytdl-pro.gif" height="100000" />
 
 <br>
 
