@@ -1,0 +1,50 @@
+{
+  "name": "ytdl-pro",
+  "description": "Professional YouTube video downloader - Fixed and enhanced version with modern YouTube API support",
+  "keywords": [
+    "youtube",
+    "video",
+    "download",
+    "ytdl",
+    "youtube-dl",
+    "downloader",
+    "1080p",
+    "audio",
+    "mp4",
+    "mp3"
+  ],
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lucifer05321/ytdl-pro.git"
+  },
+  "author": "Lucifer05321 (https://github.com/Lucifer05321)",
+  "homepage": "https://lucifer-nukers.netlify.app/",
+  "bugs": {
+    "url": "https://github.com/Lucifer05321/ytdl-pro/issues"
+  },
+  "social": {
+    "discord": "https://discord.gg/NwqwbyQvZZ",
+    "instagram": "https://www.instagram.com/mr_lucifer841",
+    "github": "https://github.com/Lucifer05321/"
+  },
+  "main": "./lib/index.js",
+  "types": "./typings/index.d.ts",
+  "files": [
+    "lib",
+    "typings"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "m3u8stream": "^0.8.6",
+    "miniget": "^4.2.3",
+    "sax": "^1.4.1",
+    "axios": "^1.7.9"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "license": "MIT"
+}
